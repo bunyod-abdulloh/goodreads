@@ -20,6 +20,7 @@ Loyiha kitoblarni boshqarish, foydalanuvchilarni ro‘yxatdan o‘tkazish, login
 ```bash
 git clone https://github.com/bunyod-abdulloh/goodreads.git
 cd goodreads
+```
 
 ### 2. Virtual environment yaratish
 ```bash
