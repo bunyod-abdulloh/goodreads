@@ -27,10 +27,12 @@ cd goodreads
 python -m venv .venv
 source .venv/bin/activate   # Linux/Mac
 .venv\Scripts\activate      # Windows (PowerShell)
+```
 
 ### 3. Kerakli paketlarni o‘rnatish
 ```bash
 pip install -r requirements.txt
+```
 
 ### 4. .env fayl yaratish
 ```bash
@@ -41,16 +43,20 @@ DATABASE_USER=postgres
 DATABASE_PASSWORD=your_password
 DATABASE_HOST=localhost
 DATABASE_PORT=5432
+```
 
 ### 5. Ma’lumotlar bazasini sozlash
 ```bash
 python manage.py makemigrations
 python manage.py migrate
+```
 
 ### 6. Admin foydalanuvchi yaratish
 ```bash
 python manage.py createsuperuser
+```
 
 ### 7. Serverni ishga tushirish
 ```bash
 python manage.py runserver
+```
