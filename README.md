@@ -1,3 +1,27 @@
+# 📚 Goodreads Clone
+
+Goodreads saytining soddalashtirilgan kloni (Django asosida).  
+Loyiha kitoblarni boshqarish, foydalanuvchilarni ro‘yxatdan o‘tkazish, login qilish va o‘zaro fikr almashish imkonini beradi.  
+
+---
+
+## ✨ Texnologiyalar
+- **Backend:** Django 5, Python 3.12
+- **Frontend:** HTML5, CSS3, Bootstrap 5, JavaScript
+- **Database:** PostgreSQL
+- **Template engine:** Django Templates
+- **Version Control:** Git + GitHub
+
+---
+
+## ⚙️ O‘rnatish
+
+### 1. Repository’ni clone qilish
+```bash
+git clone https://github.com/bunyod-abdulloh/goodreads.git
+cd goodreads
+
+
 📚 Goodreads Clone
 
 Goodreads saytining soddalashtirilgan kloni (Django asosida).
@@ -16,6 +40,8 @@ Template engine: Django Templates
 Version Control: Git + GitHub
 
 ⚙️ O‘rnatish
+
+
 1. Repository’ni clone qilish
 git clone https://github.com/bunyod-abdulloh/goodreads.git
 cd goodreads
